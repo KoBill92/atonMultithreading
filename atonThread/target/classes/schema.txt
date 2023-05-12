@@ -1,0 +1,15 @@
+{
+    1={Joey=Hey, hey.},
+    2={Chandler=Hey.},
+    3={Phoebe=Hey.},
+    4={Chandler=And this from the cry-for-help department. Are you wearing makeup?},
+    5={Joey=Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.},
+    6={Chandler=That's funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.},
+    7={Phoebe=What were you modeling for?}, 8={Joey=You know those posters for the City Free Clinic?},
+    9={Monica=Oh, wow, you're gonna be one of those "healthy, healthy, healthy guys"?},
+    10={Phoebe=You know, the asthma guy was really cute.},
+    11={Chandler=You know which one you're gonna be?},
+    12={Joey=No, but I hear lyme disease is open, so... (crosses fingers)},
+    13={Chandler=Good luck, man. I hope you get it.},
+    14={Joey=Thanks.}
+}
